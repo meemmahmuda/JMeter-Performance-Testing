@@ -31,6 +31,11 @@ A simple [Apache JMeter](https://jmeter.apache.org/) performance test plan that 
 | Selenium Training | GET    | `/selenium-training?q=headers`|
 | About             | GET    | `/about`                      |
 
+## Screenshots
+
+### Dashboard
+![Dashboard](ApacheJMeterDashboard.png)
+
 ### Assertions
 
 On the **Home** request:
