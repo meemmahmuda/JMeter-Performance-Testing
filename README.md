@@ -5,8 +5,8 @@ A simple [Apache JMeter](https://jmeter.apache.org/) performance test plan that 
 ## Project Structure
 
 ```
-.
-├── View_Results_Tree_Web.jmx   # JMeter test plan
+
+├── View_Results_Tree_Web.html/   
 ├── index.html                  # Generated JMeter HTML dashboard (entry point)
 ├── content/                    # Dashboard CSS, JS, and chart pages
 ├── sbadmin2-1.0.7/             # Dashboard theme/assets (Bootstrap, Flot, etc.)
@@ -96,7 +96,3 @@ The last run in this repo was executed on **14 Nov 2026**.
 ## Disclaimer
 
 Only run load tests against systems you own or have permission to test. Keep the user count low when testing public websites.
-
-## License
-
-Add your license here (e.g. MIT).
