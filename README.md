@@ -10,7 +10,6 @@ A simple [Apache JMeter](https://jmeter.apache.org/) performance test plan that 
 ├── index.html                  # Generated JMeter HTML dashboard (entry point)
 ├── content/                    # Dashboard CSS, JS, and chart pages
 ├── sbadmin2-1.0.7/             # Dashboard theme/assets (Bootstrap, Flot, etc.)
-└── README.md
 ```
 
 ## Test Plan Overview
