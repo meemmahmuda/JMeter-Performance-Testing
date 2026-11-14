@@ -33,7 +33,11 @@ A simple [Apache JMeter](https://jmeter.apache.org/) performance test plan that 
 
 ## Screenshots
 
-### Dashboard
+## JMeter Test Plan
+
+![JMeter Test Plan](ScreenshotJMeter.png)
+
+### HTML Report Dashboard
 ![Dashboard](ApacheJMeterDashboard.png)
 
 ### Assertions
