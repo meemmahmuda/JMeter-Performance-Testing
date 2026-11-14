@@ -1,4 +1,4 @@
-# JMeter Load Test – ToolsQA Web
+# Performance testing of ToolsQA website using Apache JMeter
 
 A simple [Apache JMeter](https://jmeter.apache.org/) performance test plan that sends HTTP requests to [ToolsQA](https://www.toolsqa.com) and validates the responses. The repository also includes the HTML dashboard report generated from the test run.
 
